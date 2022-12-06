@@ -1,0 +1,95 @@
+
+.logo {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.inicio {
+    float: right;
+    width: 35px;
+    height: 35px;
+    padding-top: 1em;
+    padding-right: 2em;
+}
+
+nav ul li{
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.menu-items {
+    letter-spacing: 2px;
+    font-size: 10px;
+    margin-left: 25%;
+}
+
+nav ul{
+    display: flex;
+    margin-left: 500px;
+    background-color: white
+}
+
+.uno {
+    float: left;
+    width: 500px;
+    height: 480px;
+    position: relative;
+    margin-top: 5%;
+}
+
+p {
+    font-size: 400%;
+    font-family: "Montserrat" sans-serif;
+    margin-top: 5%;
+}
+
+.txt1 {
+    font-size: 150%;
+    opacity: 80%;
+    font-family: "Montserrat" sans-serif;
+}
+
+.see1 {
+    text-decoration-color: black;
+    border-style: groove;
+    border-radius: 25px;
+    opacity: 75%;
+}
+
+.see1 li{
+    margin-left: -20px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    size-adjust: auto;
+}
+
+.lupa {
+    width: 5%;
+    height: 5%;
+    float: right;
+    margin-left: 83%;
+}
+
+footer {
+    text-align: left;
+    width: 500px;
+    height: 200px;
+}
+
+.dda {
+    width: 4%;
+    height: 10%;
+    margin-top: 10px;
+}
+
+.mail {
+    float: right;
+    margin-right: -165%;
+}
